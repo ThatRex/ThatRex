@@ -1,16 +1,114 @@
-### Hi there 👋
+# Just Another Full Stack Dev...
 
-<!--
-**ThatRex/ThatRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some Tools I Like
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <tr>
+        <td>
+            <a href="#"
+                ><img
+                    alt="VS Code"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/vscode-dark.svg"
+            /></a>
+        </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="Bash"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/bash-dark.svg"
+            /></a>
+        </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="HTML5"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/html.svg"
+            /></a>
+        </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="CSS3"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/css.svg"
+            /></a>
+        </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="JavaScript"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/javascript.svg"
+            /></a>
+        </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="SQLite"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/sqllite.svg"
+            /></a>
+        </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="SvelteKit"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/svelte-dark.svg"
+            /></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="#"
+                ><img
+                    alt="Git"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/git.svg"
+            /></a>
+        </td>   
+        <td>
+            <a href="#"
+                ><img
+                    alt="PowerShell"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/powershell-dark.svg"
+            /></a>
+        </td>     
+        <td>
+            <a href="#"
+                ><img
+                    alt="Markdown"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/markdown-light.svg"
+            /></a>
+        </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="tailwindcss"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/tailwindcss-dark.svg"
+            /></a>
+        </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="TypeScript"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/typescript.svg"
+            /></a>
+        </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="PostgreSQL"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/postgressql-dark.svg"
+            /></a>
+        </td>
+    </tr>
+</table>
