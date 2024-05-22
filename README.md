@@ -60,6 +60,14 @@
                     src="https://github.com/onemarc/tech-icons/raw/main/icons/svelte-dark.svg"
             /></a>
         </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="Asterisk"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/svelte-dark.svg"
+            /></a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -67,7 +75,7 @@
                 ><img
                     alt="Git"
                     width="40"
-                    src="https://github.com/onemarc/tech-icons/raw/main/icons/git.svg"
+                    src="https://github.com/ThatRex/ThatRex/raw/main/icons/asterisk-dark.svg"
             /></a>
         </td>   
         <td>
