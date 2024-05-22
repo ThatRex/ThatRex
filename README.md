@@ -63,7 +63,7 @@
         <td>
             <a href="#"
                 ><img
-                    alt="SvelteKit"
+                    alt="Asterisk"
                     width="40"
                     src="https://github.com/ThatRex/ThatRex/raw/main/icons/asterisk-dark.svg"
             /></a>
