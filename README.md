@@ -118,5 +118,7 @@
                     src="https://github.com/onemarc/tech-icons/raw/main/icons/postgressql-dark.svg"
             /></a>
         </td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
