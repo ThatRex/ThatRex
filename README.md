@@ -1,6 +1,4 @@
-# Just Another Full Stack Dev...
-
-## Some Tools I Like
+Just another full stack dev on the internet.
 
 <table>
     <tr>
