@@ -66,6 +66,14 @@ Just another full stack dev on the internet.
                     src="https://github.com/ThatRex/ThatRex/raw/main/icons/asterisk-dark.svg"
             /></a>
         </td>
+        <td>
+            <a href="#"
+                ><img
+                    alt="Docker"
+                    width="40"
+                    src="https://github.com/onemarc/tech-icons/raw/main/icons/docker.svg"
+            /></a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -116,6 +124,7 @@ Just another full stack dev on the internet.
                     src="https://github.com/onemarc/tech-icons/raw/main/icons/postgressql-dark.svg"
             /></a>
         </td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
